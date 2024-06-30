@@ -1,0 +1,4 @@
+sounddevice
+soundfile
+gradio
+git+https://github.com/openai/whisper.git
